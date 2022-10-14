@@ -2593,7 +2593,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #161211;                          /*background-color: #1f1815;*/
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images_byIsi/isimou_logo-withSpace4.png");
+		background-image: url("images/overlay.png"), url("../../images_byIsi/isimou_logo-withSpace5.png");
 		background-position: bottom,							bottom;		
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								95%;		
@@ -2633,7 +2633,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.7);
+			color: rgb(235, 235, 235);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
